@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-This is a deployment test.
+This is a deployment test. :)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
